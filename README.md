@@ -31,7 +31,7 @@ Ortalama hesaplama eklendi.
 ### Karekök Hesaplama, Bir Sayının Kuvvetini Alma ve Diğer Geliştirmeler
 **Tarih:** 04.10.2025  
 Karekök hesaplama ve kuvvet alma işlemleri eklendi.  
-Kullanıcının istediği kadar sayı girebilmesi için toplama/çarpma/ortalama işlemlerinde do-while döngüsü kullanıldı.  
+Kullanıcının istediği kadar sayı girebilmesi için toplama/çarpma/ortalama işlemlerinde `do-while` döngüsü kullanıldı.  
 Çıkarma ve bölme işlemleri 2 sayı ile sınırlandırıldı.  
 Karekök hesaplama işlemi tek sayı ile sınırlandırıldı.  
 Kuvvet alma işlemleri, kullanıcıdan taban ve üs alınarak gerçekleştirilecek şekilde ayarlandı.  
