@@ -48,7 +48,6 @@ Menü while döngüsüne alındı, kullanıcının "E/e" ile tekrar menüye dön
 Ortalamanın hesaplanması için sayıların toplamı ve sayı miktarı dinamik şekilde işlendi. (`sumNumbers` ve `count` kullanıldı)  
 Bölme sonuçları sadece float ile görüntülenecek şekilde ayarlandı.  
 `system("cls")` ile her işlemden sonra ekran temizlenecek şekilde ayarlandı.
-
 Çarpma işlemlerinde kullanıcıdan alınan sayılardan en az 2 tanesinin sıfır olması durumunda sonucun belirsiz olması ayarlandı.
 
 ### Kullanım Notları ve Tavsiyeleri
